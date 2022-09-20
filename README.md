@@ -1,0 +1,2 @@
+# Crunch-PasswordGenerator
+crunch
